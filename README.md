@@ -23,11 +23,7 @@ Movie app made in Flutter with clean architecture using BLoC, Hive and the movie
 
 
 ## Installation
-### 1. Clone the repo
-```bash
-git clone https://github.com/mohamadayash22/flutter-movie-app.git
-cd flutter-movie-app
-```
+
 ### 2. Run pub get
 ```bash
 flutter pub get
