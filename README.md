@@ -20,14 +20,7 @@ Movie app made in Flutter with clean architecture using BLoC, Hive and the movie
 - TV show season details
 
 
-## Screenshots
-<p>
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/01.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/02.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/03.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/04.png" width="250" />
-  
-</p>
+
 
 ## Installation
 ### 1. Clone the repo
@@ -69,6 +62,5 @@ flutter run
 - [url_launcher](https://pub.dev/packages/url_launcher)
 
 
-## Acknowledgements
-This app is based on 
-[Build a Movie App - FlutterFlow](https://www.youtube.com/watch?v=ZPkVRoa1AA8) YouTube video by [@abuanwar072](https://github.com/abuanwar072/), special thanks to Abu Anwar for his amazing videos and tutorials!
+
+
